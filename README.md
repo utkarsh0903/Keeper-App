@@ -1,2 +1,2 @@
 # Keeper-App
-Created with CodeSandbox
+Web App to store your information instantly.
